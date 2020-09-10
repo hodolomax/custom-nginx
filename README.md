@@ -1,1 +1,1 @@
-# custom-nginx
+Custom Nginx Template
